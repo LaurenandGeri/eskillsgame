@@ -5,7 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<Geri's>eskillsgame</name>
-<description> This eskills game was developed by Geri's for ITGirls2014
+<description> This eskills game was developed by Geri's for ITGirls2014!</description>
 		<gap:platform name="iOS " />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
